@@ -1,5 +1,5 @@
-train_net: "/home/sharif/Desktop/caffe-master/voc-dil-rnn/train.prototxt"
-test_net: "/home/sharif/Desktop/caffe-master/voc-dil-rnn/val.prototxt"
+train_net: "train.prototxt"
+test_net: "val.prototxt"
 test_iter: 346
 # make test net, but don't invoke it from the solver itself
 test_interval: 999999999
@@ -15,6 +15,6 @@ iter_size: 1
 max_iter: 100000
 weight_decay: 0.0005
 snapshot: 1
-snapshot_prefix: "/home/sharif/Desktop/caffe-master/voc-dil-rnn/snapshot/vocsbd"
+snapshot_prefix: "snapshot/vocsbd"
 test_initialization: false
 solver_mode: GPU
