@@ -1,13 +1,8 @@
 layer {
-  name: "data"
-  type: "Python"
-  top: "data"
-  top: "label"
-  python_param {
-    module: "voc_layers"
-    layer: "VOCSegDataLayer"
-    param_str: "{\'voc_dir\': \'/home/sharif/Desktop/coco-master/PythonAPI/ground_truth\', \'seed\': 1337, \'split\': \'trainNewNew\', \'randomize\': \'False\', \'mean\': (104.00699, 116.66877, 122.67892)}"
-  }
+    name: "data"
+    type: "Input"
+    top: "data"
+    input_param { shape: { dim: 1 dim: 1 dim: 500 dim: 500 } }
 }
 layer {
   name: "conv1_1"
@@ -878,12 +873,11 @@ layer {
 }
 layer {
   name: "loss"
-  type: "SoftmaxWithLoss"
+  type: "SoftmaxWith"
   bottom: "score"
-  bottom: "label"
   top: "loss"
   loss_param {
     ignore_label: 255
     normalize: false
-  }
+}
 }
