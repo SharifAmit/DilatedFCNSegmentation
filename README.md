@@ -1,5 +1,5 @@
 # Dilated FCN-2s
-Dilated FCN-2s VGG16 & VGG19, upsampled with stride 2, containing 4 Skip architecture for Efficient Semantic Segmentation#
+Dilated FCN-2s VGG16 & VGG19, upsampled with stride 2, containing 4 Skip architecture for Efficient Semantic Segmentation
 # Installation
 Make caffe with python wrapper. Detailed Instruction below
 # Caffe
