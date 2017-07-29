@@ -56,7 +56,7 @@ Dilated FCN-2s Segmentation is released under the MIT License, you can read the 
 
 Please cite our paper if you use our codes or material in your work: 
 
-@ARTICLE{2017arXiv170708254A,
+@article{2017arXiv170708254A,
    author = {{Amit Kamran}, S. and {Shihab Sabbir}, A.},
     title = "{Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation}",
 archivePrefix = "arXiv",
