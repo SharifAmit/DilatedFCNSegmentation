@@ -53,3 +53,15 @@ Run demo.py
 
 # License
 Dilated FCN-2s Segmentation is released under the MIT License, you can read the license file included in the reposity for details.
+
+Please cite our paper if you use our codes or material in your work: 
+
+@ARTICLE{2017arXiv170708254A,
+   author = {{Amit Kamran}, S. and {Shihab Sabbir}, A.},
+    title = "{Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation}",
+archivePrefix = "arXiv",
+   eprint = {1707.08254},
+ primaryClass = "cs.CV",
+ keywords = {Computer Science - Computer Vision and Pattern Recognition},
+     year = 2017
+}
