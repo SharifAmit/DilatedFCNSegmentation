@@ -2,6 +2,23 @@
 Dilated FCN-2s VGG16 & VGG19, upsampled with stride 2, containing 4 Skip architecture for Efficient Semantic Segmentation
 # Installation
 Make caffe with python wrapper. Detailed Instruction below
+
+# License
+Dilated FCN-2s Segmentation is released under the MIT License, you can read the license file included in the reposity for details.
+
+Please cite our paper if you use our codes or material in your work: 
+```
+@article{2017arXiv170708254A,
+   author = {{Amit Kamran}, S. and {Shihab Sabbir}, A.},
+   title = "{Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation}",
+   archivePrefix = "arXiv",
+   eprint = {1707.08254},
+   primaryClass = "cs.CV",
+   keywords = {Computer Science - Computer Vision and Pattern Recognition},
+   year = 2017
+}
+```
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
@@ -51,18 +68,5 @@ Please cite Caffe in your publications if it helps your research:
 Open demo.py and change line 29 for running demo with different images.
 Run demo.py
 
-# License
-Dilated FCN-2s Segmentation is released under the MIT License, you can read the license file included in the reposity for details.
 
-Please cite our paper if you use our codes or material in your work: 
-```
-@article{2017arXiv170708254A,
-   author = {{Amit Kamran}, S. and {Shihab Sabbir}, A.},
-    title = "{Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation}",
-archivePrefix = "arXiv",
-   eprint = {1707.08254},
- primaryClass = "cs.CV",
- keywords = {Computer Science - Computer Vision and Pattern Recognition},
-     year = 2017
-}
-```
+
