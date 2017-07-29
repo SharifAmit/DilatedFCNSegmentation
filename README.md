@@ -18,6 +18,9 @@ Please cite our paper if you use our codes or material in your work:
    year = 2017
 }
 ```
+# Demo
+Open demo.py and change line 29 for running demo with different images.
+Run demo.py
 
 # Caffe
 
@@ -64,9 +67,7 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
-# Demo
-Open demo.py and change line 29 for running demo with different images.
-Run demo.py
+
 
 
 
