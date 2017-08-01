@@ -6,14 +6,11 @@ https://arxiv.org/abs/1707.08254
 ```
 Please cite our paper if you use our codes or material in your work: 
 ```
-@article{2017arXiv170708254A,
-   author = {{Amit Kamran}, S. and {Shihab Sabbir}, A.},
-   title = "{Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation}",
-   archivePrefix = "arXiv",
-   eprint = {1707.08254},
-   primaryClass = "cs.CV",
-   keywords = {Computer Science - Computer Vision and Pattern Recognition},
-   year = 2017
+@article{kamran2017efficient,
+  title={Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation},
+  author={Kamran, Sharif Amit and Sabbir, Ali Shihab},
+  journal={arXiv preprint arXiv:1707.08254},
+  year={2017}
 }
 ```
 # Installation
