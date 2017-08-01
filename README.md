@@ -1,16 +1,4 @@
 
-# Dilated FCN-2s
-Dilated FCN-2s VGG16 & VGG19, upsampled with stride 2, containing 4 Skip architecture for Efficient Semantic Segmentation
-# Installation
-Make caffe with python wrapper. Detailed Instruction below
-
-# Demo
-Open demo.py and change line 29 for running demo with different images.
-Run demo.py
-
-# License
-The code is released under the MIT License, you can read the license file included in the reposity for details.
-
 # Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation
 Paper link 
 ```
@@ -28,7 +16,15 @@ Please cite our paper if you use our codes or material in your work:
    year = 2017
 }
 ```
+# Installation
+Make caffe with python wrapper. Detailed Instruction below
 
+# Demo
+Open demo.py and change line 29 for running demo with different images.
+Run demo.py
+
+# License
+The code is released under the MIT License, you can read the license file included in the reposity for details.
 
 # Caffe
 
