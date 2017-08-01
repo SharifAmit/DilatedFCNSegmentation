@@ -2,7 +2,7 @@
 # Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation
 Paper link 
 ```
-https://arxiv.org/pdf/1707.07819.pdf
+https://arxiv.org/abs/1707.08254
 ```
 Please cite our paper if you use our codes or material in your work: 
 ```
