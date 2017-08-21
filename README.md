@@ -13,9 +13,20 @@ Please cite our paper if you use our codes or material in your work:
   year={2017}
 }
 ```
+# Score and Leaderboard
+FCN2s-Dilated-VGG16 Mean Iou score 67.6 percent [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6&submid=12146#KEY_FCN-2s_Dilated_VGG16]
+FCN2s-Dilated-VGG19 Mean Iou score 69 percent [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6&submid=12146#KEY_FCN-2s_Dilated_VGG19]
+
 # Installation
 Make caffe with python wrapper. Detailed Instruction below
 
+# Models
+
+FCN2s-Dilated-VGG16 download link -[https://drive.google.com/drive/folders/0ByGwXEdDYIN3SW55R3NZUVg0NHc?usp=sharing]
+FCN2s-Dilated-VGG19 download link -[https://drive.google.com/drive/folders/0ByGwXEdDYIN3SW55R3NZUVg0NHc?usp=sharing]
+This models were only trained on SBD and VOC data and for 21 classes segmentation task for PASCAL VOC2012 Segmentation Challenge. 
+
+Will be uploading the net trained on NYUDv2 dataset and train and test prototxt files later on. Keep an eye on the page.
 # Demo
 Open demo.py and change line 29 for running demo with different images.
 Run demo.py
