@@ -24,6 +24,7 @@ Make caffe with python wrapper. Detailed Instruction below
 
 - FCN2s-Dilated-VGG16 download link - [FCN2s-Dilated-VGG16](https://drive.google.com/drive/folders/0ByGwXEdDYIN3SW55R3NZUVg0NHc?usp=sharing)
 - FCN2s-Dilated-VGG19 download link - [FCN2s-Dilated-VGG19](https://drive.google.com/drive/folders/0ByGwXEdDYIN3SW55R3NZUVg0NHc?usp=sharing)
+
 This models were only trained on SBD and VOC data and for 21 classes segmentation task for PASCAL VOC2012 Segmentation Challenge. 
 
 Will be uploading the net trained on NYUDv2 dataset and train and test prototxt files later on. Keep an eye on the page.
