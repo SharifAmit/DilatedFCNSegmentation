@@ -6,10 +6,6 @@ Arxiv Pre-print
 https://arxiv.org/abs/1707.08254
 ```
 
-Research Gate 
-```
-https://www.researchgate.net/publication/318720999_Efficient_Yet_Deep_Convolutional_Neural_Networks_for_Semantic_Segmentation
-```
 Please cite our paper if you use our codes or material in your work: 
 
 # Citation 
