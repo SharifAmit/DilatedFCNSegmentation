@@ -5,6 +5,8 @@ Paper link
 https://arxiv.org/abs/1707.08254
 ```
 Please cite our paper if you use our codes or material in your work: 
+
+# Citation 
 ```
 @article{kamran2017efficient,
   title={Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation},
