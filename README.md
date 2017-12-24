@@ -37,7 +37,7 @@ Open demo.py and change line 29 for running demo with different images.
 Run demo.py
 
 # License
-The code is released under the MIT License, you can read the license file included in the reposity for details.
+The code is released under the MIT License, you can read the license file included in the repository for details.
 
 # Caffe
 
