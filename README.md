@@ -10,9 +10,9 @@ Please cite our paper if you use our codes or material in your work:
 
 # Citation 
 ```
-@article{kamran2017efficient,
+@article{kamranefficient,
   title={Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation},
-  author={Kamran, Sharif Amit and Sabbir, Ali Shihab},
+  author={Kamran, Sharif Amit and Hasan, Muhammad and Sabbir, Ali Shihab}
   journal={arXiv preprint arXiv:1707.08254},
   year={2017}
 }
