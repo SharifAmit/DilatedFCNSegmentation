@@ -11,3 +11,7 @@
 4. In data layer change parameteter: \'voc_dir\' to parameteter: \'sbdd_dir\'
 
 5. Path for \'sbdd_dir\' will be \'/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/data/benchmark_RELEASE/dataset\'
+
+6. Change the name of the snapshot in solver.prototxt 
+            from  '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/snapshot/voctraining'
+            to '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/snapshot/sbdtraining'
