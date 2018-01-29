@@ -1,4 +1,4 @@
-1. Download the dataset from SBD site
+1. Download the dataset from SBD site (http://home.bharathh.info/pubs/codes/SBD/download.html)
 
 2. Copy it to '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/data'
 
