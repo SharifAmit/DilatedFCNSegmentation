@@ -9,9 +9,11 @@ setproctitle.setproctitle(os.path.basename(os.getcwd()))
 
 
 
-weights = 'Dilated_FCN-2s_VGG16/snapshot/vgg16surgery.caffemodel'
+weights = 'Dilated_FCN-2s_VGG16/snapshot/vgg16surgery.caffemodel' # Comment this to resume training
+# weights = 'Dilated_FCN-2s_VGG16/snapshot/voctraining_iter_100000.caffemodel' #uncomment this out to resume training 
+
 # init
-#restoring ='Dilated_FCN-2s_VGG16/snapshot/voctraining_iter_100000.solverstate' #uncomment this out for resuming training  
+#restoring ='Dilated_FCN-2s_VGG16/snapshot/voctraining_iter_100000.solverstate' #uncomment this out to resume training  
 caffe.set_device(0)
 caffe.set_mode_gpu()
 
