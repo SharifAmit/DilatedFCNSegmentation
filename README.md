@@ -39,7 +39,7 @@ Run demo.py
 1. Download the pretrained models and the deploy.protxt of [VGGG16](https://gist.github.com/ksimonyan/211839e770f7b538e2d8) or [VGG19](3785162f95cd2d5fee77).
 2. Open sovlesurgery.py and edit the path of proto and weights
 For example: proto = '/home/XYZ/Desktop/DilatedFCNSegmentaiton/VGG_ILSVRC_16_layers_deploy.prototxt'
-             weights = '/home/XYZ/Dekstop/DilatedFCNSegmentation/VGG_ILSVRC_16_layers.caffemodel'
+weights = '/home/XYZ/Dekstop/DilatedFCNSegmentation/VGG_ILSVRC_16_layers.caffemodel'
 3. Create a folder inside Dilated_FCN-2s_VGG16 called snapshot. Ex: DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/snapshot
 4. Open the solver.protoxt and edit snapshot_prefix. The path will be of the new created model with name.
              '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/snapshot/vgg16surgery' 
