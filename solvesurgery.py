@@ -8,8 +8,8 @@ import setproctitle
 setproctitle.setproctitle(os.path.basename(os.getcwd()))
 
 
-proto = '/home/sharif/Desktop/caffe-master/VGG_ILSVRC_19_layers_deploy.prototxt' 
-weights = '/home/sharif/Desktop/caffe-master/VGG_ILSVRC_19_layers.caffemodel'
+proto = 'path-to-VGG_ILSVRC_19_layers_deploy.prototxt' 
+weights = 'path-to-VGG_ILSVRC_19_layers.caffemodel'
 caffe.set_device(0)
 caffe.set_mode_gpu()
 
