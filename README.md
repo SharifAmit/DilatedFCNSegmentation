@@ -35,16 +35,17 @@ Will be uploading the net trained on NYUDv2 dataset and Pascal-Context later on.
 # Demo
 Open demo.py and change line 29 for running demo with different images.
 Run demo.py
-# Surgery
 
-Please check surgery-instructions.txt for details.
+# Surgery + Training on VOC2012 dataset
 
-# Training on VOC2012 dataset
+First read surgery-instructions.txt for details.
 
-Please check training-instructions.txt for details.
+Then read training-instructions.txt for details.
 
 # Training on SBD dataset
+
 To recreate our result you have to first train on VOC2012 dataset and then SBD dataset.
+
 Read the training-sbd-instructions for details.
 
 # License
