@@ -15,3 +15,5 @@
 6. Change the name of the snapshot in solver.prototxt 
             from  '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/snapshot/voctraining'
             to '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/snapshot/sbdtraining'
+7. Also change             
+
