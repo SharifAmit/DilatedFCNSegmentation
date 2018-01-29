@@ -37,23 +37,17 @@ Open demo.py and change line 29 for running demo with different images.
 Run demo.py
 # Surgery
 
-Please check surgery-instructions.txt for details
+Please check surgery-instructions.txt for details.
 
 # Training on VOC2012 dataset
 
-Please check training-instructions.txt for details
+Please check training-instructions.txt for details.
 
 # Training on SBD dataset
-To recreate our result you have to first train on VOC2012 dataset and then SBD dataset
+To recreate our result you have to first train on VOC2012 dataset and then SBD dataset.
+Read the training-sbd-instructions for details.
 
-1. Download the dataset from [SBD site](http://home.bharathh.info/pubs/codes/SBD/download.html)
 
-2. Copy it to '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/data'
-
-3. Change the train.prototxt and val.protoxt data value of /voc_dir/ to /sbdd_dir/ and 
-also the path to directory in split.
-
-4. Path for data will be '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/data/benchmark_RELEASE/dataset'
 
 # License
 The code is released under the MIT License, you can read the license file included in the repository for details.
