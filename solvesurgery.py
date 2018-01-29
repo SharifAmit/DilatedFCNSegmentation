@@ -8,12 +8,12 @@ import setproctitle
 setproctitle.setproctitle(os.path.basename(os.getcwd()))
 
 
-proto = 'path-to-VGG_ILSVRC_19_layers_deploy.prototxt' 
-weights = 'path-to-VGG_ILSVRC_19_layers.caffemodel'
+proto = 'path-to-VGG_ILSVRC_16_layers_deploy.prototxt' 
+weights = 'path-to-VGG_ILSVRC_16_layers.caffemodel'
 caffe.set_device(0)
 caffe.set_mode_gpu()
 
-solver = caffe.SGDSolver('voc-dil-context/solver.prototxt')
+solver = caffe.SGDSolver('Dilated_FCN-2s_VGG16/solver.prototxt')
 # surgeries
 custom_net = caffe.Net(proto, weights, caffe.TEST) 
 surgery.transplant(solver.net, custom_net)
