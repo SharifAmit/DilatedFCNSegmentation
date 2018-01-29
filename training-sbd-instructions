@@ -1,0 +1,13 @@
+1. Download the dataset from SBD site
+
+2. Copy it to '/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/data'
+
+3. Open the train.prototxt and val.protoxt 
+
+
+4. In data layer (first layer) change the layer: "VOCSegDataLayer" to layer:  "SBDDSegDataLayer"
+
+
+4. In data layer change parameteter: \'voc_dir\' to parameteter: \'sbdd_dir\'
+
+5. Path for \'sbdd_dir\' will be \'/home/XYZ/Desktop/DilatedFCNSegmentation/Dilated_FCN-2s_VGG16/data/benchmark_RELEASE/dataset\'
