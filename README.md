@@ -31,7 +31,7 @@ Make caffe with python wrapper. Detailed Instruction below
 
 This models were only trained on SBD and VOC data and for 21 classes segmentation task for PASCAL VOC2012 Segmentation Challenge. 
 
-Will be uploading the net trained on NYUDv2 dataset and train and test prototxt files later on. Keep an eye on the page.
+Will be uploading the net trained on NYUDv2 dataset and Pascal-Context later on. Keep an eye on the page.
 # Demo
 Open demo.py and change line 29 for running demo with different images.
 Run demo.py
