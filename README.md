@@ -47,8 +47,6 @@ Please check training-instructions.txt for details.
 To recreate our result you have to first train on VOC2012 dataset and then SBD dataset.
 Read the training-sbd-instructions for details.
 
-
-
 # License
 The code is released under the MIT License, you can read the license file included in the repository for details.
 
