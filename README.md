@@ -8,7 +8,7 @@ https://arxiv.org/abs/1707.08254
 
 Please cite our paper if you use our codes or material in your work: 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cTd2NDoe3eI/0.jpg)](https://www.youtube.com/watch?v=cTd2NDoe3eI)
+          [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cTd2NDoe3eI/0.jpg)](https://www.youtube.com/watch?v=cTd2NDoe3eI)
 
 
 # Citation 
