@@ -8,7 +8,9 @@ https://arxiv.org/abs/1707.08254
 
 Please cite our paper if you use our codes or material in your work: 
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cTd2NDoe3eI/0.jpg)](https://www.youtube.com/watch?v=cTd2NDoe3eI)
+# Youtube Demo 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cTd2NDoe3eI/0.jpg)](https://www.youtube.com/watch?v=cTd2NDoe3eI)
 
 
 # Citation 
@@ -38,6 +40,8 @@ Will be uploading the net trained on NYUDv2 dataset and Pascal-Context later on.
 # Demo
 Open demo.py and change line 29 for running demo with different images.
 Run demo.py
+
+
 
 # Surgery + Training on VOC2012 dataset
 
