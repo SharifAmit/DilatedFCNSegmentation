@@ -41,7 +41,9 @@ Will be uploading the net trained on NYUDv2 dataset and Pascal-Context later on.
 Open demo.py and change line 29 for running demo with different images.
 Run demo.py
 
+# Tutorial
 
+A tutorial with elaborated instructions for running the inference is provided at [ModelDepot.io](https://modeldepot.io/sharifamit/dilated-fcn-2s/overview)
 
 # Surgery + Training on VOC2012 dataset
 
