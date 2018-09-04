@@ -1,8 +1,8 @@
 
 # Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation
 
-## Our paper has been accepted to 2018 International Symposium on Advanced Intelligent Informatics (SAIN).
-## Will be availble in IEEE Xplore Digital Library soon.
+### Our paper has been accepted to 2018 International Symposium on Advanced Intelligent Informatics (SAIN). Will be availble in IEEE Xplore Digital Library soon.
+
 
 Paper link 
 Arxiv Pre-print
