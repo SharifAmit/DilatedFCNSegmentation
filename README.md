@@ -4,13 +4,13 @@
 ### Our paper has been accepted to 2018 International Symposium on Advanced Intelligent Informatics (SAIN). Will be availble in IEEE Xplore Digital Library soon.
 
 
-Paper link 
+Paper ###link 
 Arxiv Pre-print
 ```
 https://arxiv.org/abs/1707.08254
 ```
 
-Researchgate 
+###Researchgate 
 ```
 https://www.researchgate.net/publication/318720999_Efficient_Yet_Deep_Convolutional_Neural_Networks_for_Semantic_Segmentation
 ```
