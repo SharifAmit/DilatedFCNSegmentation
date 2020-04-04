@@ -28,11 +28,13 @@ Please cite our paper if you use our codes or material in your work:
 
 # Citation 
 ```
-@article{kamranefficient,
-  title={Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation},
-  author={Kamran, Sharif Amit and Sabbir, Ali Shihab}
-  journal={arXiv preprint arXiv:1707.08254},
-  year={2017}
+@inproceedings{kamran2018efficient,
+  title={Efficient yet deep convolutional neural networks for semantic segmentation},
+  author={Kamran, Sharif Amit and Sabbir, Ali Shihab},
+  booktitle={2018 International Symposium on Advanced Intelligent Informatics (SAIN)},
+  pages={123--130},
+  year={2018},
+  organization={IEEE}
 }
 ```
 # Score and Leaderboard
